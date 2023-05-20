@@ -1,1 +1,3 @@
 # CodeClause_Wine-Quality-Prediction
+
+PROBLEM STATEMENT: Predicting the quality of wines is essential for winemakers and consumers to make informed decisions about production, selection, and enjoyment. However, without reliable predictions about the quality of wine, there is a chance of producing or purchasing wines that do not meet expectations. To address this challenge, a Python-based predictive model leveraging machine learning techniques is developed to forecast the quality of wines, indicating whether it will be classified as high or low quality based on various chemical attributes and sensory properties.
